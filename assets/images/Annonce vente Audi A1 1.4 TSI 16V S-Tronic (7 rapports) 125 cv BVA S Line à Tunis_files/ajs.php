@@ -1,0 +1,5 @@
+var OX_fa7360ed = '';
+OX_fa7360ed += "<"+"a href=\"https://display.automobile.tn/www/delivery/cl.php?bannerid=4275&amp;zoneid=1&amp;sig=f0131c9611bd028f44967c214c8fe39413b7d21a67631bfd1b5de08eb84b4d5a&amp;oadest=https%3A%2F%2Fwww.ford.com.tn%2Freserver-un-entretien%2F\" target=\"_blank\"><"+"video width=\"100%\" muted  class=\"center\" playsinline loop autoplay>\n";
+OX_fa7360ed += "<"+"source src=\"https://www.automobile.tn/images/banniere/video/ford/fordpromoete1000x300.mp4\" type=\"video/mp4\">\n";
+OX_fa7360ed += "<"+"/video><"+"/a><"+"div id=\'beacon_a8cfa30763\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'https://display.automobile.tn/www/delivery/lg.php?bannerid=4275&amp;campaignid=816&amp;zoneid=1&amp;loc=https%3A%2F%2Fwww.automobile.tn%2Ffr%2Foccasion%2Faudi%2Fa1%2F103967&amp;referer=https%3A%2F%2Fwww.automobile.tn%2Ffr&amp;cb=a8cfa30763\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
+document.write(OX_fa7360ed);
